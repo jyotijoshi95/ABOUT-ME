@@ -18,7 +18,7 @@ Hello, 👋 I'm Jyoti Joshi, an aspiring data enthusiast diving into the excitin
 I'm passionate about honing my skills and contributing to the ever-evolving landscape of technology. My GitHub repository showcases projects and exercises that reflect my growing expertise. I am eager to connect with fellow enthusiasts, mentors, and collaborators who share a passion for leveraging data for meaningful impact. Let's learn and grow together! 📊✨
 
 🔗 **Connect with me:**
-- [LinkedIn: Jyoti Joshi](#)([LinkedIn profile link](https://www.linkedin.com/in/jyoti-joshi-b224291bb/))
+- [LinkedIn: Jyoti Joshi](#)([LinkedIn profile link](https://www.linkedin.com/in/jyoti-joshi-b224291bb))
 - Email: jyotijoshi1995.jj@gmail.com
 
 Looking forward to exciting collaborations and data-driven discoveries! 🚀
